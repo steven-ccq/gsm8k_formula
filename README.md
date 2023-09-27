@@ -1,4 +1,3 @@
-## gsm8k_formula
 ---
 ### Intro
 This code repository provides partial **gsm8k** dataset with calculation formulas. This **gsm8k_var** dataset is a by-product of our experiments.
